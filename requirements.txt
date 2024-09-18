@@ -1,3 +1,4 @@
+pyttsx3
 pydub
 PySimpleGUI
 SpeechRecognition
@@ -5,7 +6,5 @@ pyperclip
 pyaudio
 ffmpeg-python
 pytube
-pydub
 yt-dlp
 
-# youtube-dl -U
