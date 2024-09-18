@@ -6,3 +6,6 @@ pyaudio
 ffmpeg-python
 pytube
 pydub
+yt-dlp
+
+# youtube-dl -U
