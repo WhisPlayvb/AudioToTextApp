@@ -1,0 +1,8 @@
+pydub
+PySimpleGUI
+SpeechRecognition
+pyperclip
+pyaudio
+ffmpeg-python
+pytube
+pydub

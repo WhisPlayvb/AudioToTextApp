@@ -1,0 +1,19 @@
+# Virtual environment
+AudioToText/venv/
+
+# Distribution and build directories
+AudioToText/build/
+AudioToText/dist/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor folders
+.idea/
+.vscode/
+
+# Environment variables
+.env
